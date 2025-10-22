@@ -14,5 +14,10 @@ print("a")
 ```
 
 ## Output
+<img width="494" height="414" alt="image" src="https://github.com/user-attachments/assets/a21ce430-e8aa-446a-aab4-56fb51402e88" />
+
 
 ## Result
+The Python program that prints the characters 'T' and 'a' using character literals is executed successfully.
+
+
